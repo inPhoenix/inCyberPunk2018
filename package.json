@@ -2,7 +2,7 @@
   "name": "inrecognition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inphoenix.github.io/inRecognition/",
+  "homepage": "https://inphoenix.github.io/inCyberPunk/",
   "dependencies": {
     "clarifai": "^2.6.0",
     "gh-pages": "^1.1.0",
