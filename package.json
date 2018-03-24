@@ -1,8 +1,8 @@
 {
-  "name": "inrecognition",
+  "name": "inCyber",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inphoenix.github.io/inCyberPunk/",
+  "homepage": "https://inphoenix.github.io/inCyber/",
   "dependencies": {
     "clarifai": "^2.6.0",
     "gh-pages": "^1.1.0",
