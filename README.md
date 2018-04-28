@@ -6,7 +6,7 @@
 Live:
 [CyberProject2018](https://inphoenix.github.io/inCyberNotes/)
 
-    CyberProject 2018
+    CyberProject 2018 - A Twitter Based App
 
 ### The stack
 - [x] React Fiber
