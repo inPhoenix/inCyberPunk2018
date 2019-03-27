@@ -13,3 +13,7 @@ Live:
 - [x] React Router
 - [x] Redux
 - [x] Semantic-UI
+
+Note:
+Checkout a new FullStack version of this App under active development:
+[inCyberPunk2022](https://github.com/inPhoenix/inCyberPunk2022)
